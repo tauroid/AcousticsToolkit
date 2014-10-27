@@ -1,0 +1,19 @@
+[ Material-C 1000.0 ]
+
+[ PointSource-Number 7 ]
+[ PointSource-Location (0.0, 0.44)
+                       (0.0, 0.46)
+                       (0.0, 0.48)
+                       (0.0, 0.5)
+                       (0.0, 0.52)
+                       (0.0, 0.54)
+                       (0.0, 0.56) ]
+[ PointSource-Frequency 20000.0, 20000.0, 20000.0, 20000.0, 20000.0,
+                        20000.0, 20000.0 ]
+[ PointSource-Phase 0.0, 0.4, 0.8, 1.2, 1.6, 2.0, 2.4 ]
+
+[ Field-Offset (0.0, 0.0) ]
+[ Field-Dimensions (1.33, 1.0) ]
+[ Field-Size (800, 600) ]
+
+[ Field-Max 10.0 ]
